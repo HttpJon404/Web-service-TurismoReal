@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="85f80b3fcf024dd5ba4e26ee6e906f82" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.ACOMPANANTE" Width="1.5" PointX="5.25" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.COMUNA" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.CONDUCTOR" Width="1.5" PointX="6" PointY="21.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.DEPARTAMENTO" Width="1.5" PointX="3" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.DETALLE_ACOMPA" Width="1.5" PointX="7.5" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.DETALLE_ARRIENDO" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.DISPONIBILIDAD" Width="1.5" PointX="8.25" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.ESTADO_DPTO" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.GASTOS_ADMINISTRATIVOS" Width="1.5" PointX="0.75" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.IMAGENES" Width="1.5" PointX="0.75" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.INVENTARIO_DPTO" Width="1.5" PointX="8.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.PROVINCIAS" Width="1.5" PointX="1.5" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.REGION" Width="1.5" PointX="1.5" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.ROL" Width="1.5" PointX="3" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.SERVICIO_ADICIONAL" Width="1.5" PointX="10.5" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TIPO_INVENTARIO" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TIPO_PAGO" Width="1.5" PointX="7.5" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TIPO_SERVICIO" Width="1.5" PointX="8.25" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TRANSPORTE" Width="1.5" PointX="6" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.USUARIO" Width="1.5" PointX="3" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.USUARIO_ROL" Width="1.5" PointX="5.25" PointY="18.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.ACOMPANANTE_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.COMUNA_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.PROVINCIAS_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.CONDUCTOR_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.DEPARTAMENTO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.DEPARTAMENTO_FKV2" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.ESTADO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.GASTOS_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.IMAGENES_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.DETALLE_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.DETALLE_ARRIENDO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.DETALLE_FK_1" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.ESTADO_DPTO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.USUARIO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.TRANSPORTE_FKV2" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.TIPO_INVENTARIO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.REGION_FKV2" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.ROL_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.TIPO_SERVICIO_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.TRANSPORTE_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.USUARIO_FKV2" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

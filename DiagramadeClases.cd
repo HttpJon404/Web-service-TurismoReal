@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebService.Controllers.CheckinController">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAKAAAAAAQAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CheckinController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.ComunaController">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Controllers\ComunaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.ContrasenaController">
+    <Position X="5.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAQAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Controllers\ContrasenaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.DepartamentoController">
+    <Position X="7.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAgAAAAAAAAAAAEAAAAAAAAAAAgA=</HashCode>
+      <FileName>Controllers\DepartamentoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.DetalleAcompaController">
+    <Position X="12" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAACAQAAAACAAAAAAgAAAAAAAAAAAAAAABBAA=</HashCode>
+      <FileName>Controllers\DetalleAcompaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.DetalleServicioController">
+    <Position X="2.25" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAQAAAAAAAAAAAAAQAACICAAAAAAAAACAA=</HashCode>
+      <FileName>Controllers\DetalleServicioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.HomeController">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAEAAEACAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.ImagenesController">
+    <Position X="10.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ImagenesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.InventarioController">
+    <Position X="10.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Controllers\InventarioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.LoginController">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAgAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.PagoController">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\PagoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.RegionController">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\RegionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.ReservaController">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Controllers\ReservaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.ServicioController">
+    <Position X="8.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAACACAwAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Controllers\ServicioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.TipoInventarioController">
+    <Position X="12.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAACAQAAAAEAAAAAgAAEBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TipoInventarioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.TipoServicioController">
+    <Position X="14.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAACACAwAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Controllers\TipoServicioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebService.Controllers.UsuariosController">
+    <Position X="4.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAYAAgAAAAAAAAAAAAAAAAAAEAAAAQAAAA=</HashCode>
+      <FileName>Controllers\UsuariosController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
